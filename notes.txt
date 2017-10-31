@@ -1,0 +1,45 @@
+too much information,
+
+remove anything related mechanical, when applaying for data scientist.
+Use Europass CV
+
+first professional experience, then education.
+
+in prof experience,
+researcher in data analysis lab.
+1 year experience
+
+change chennai experience as if such its in software development.
+
+education. shrink it.
+make Msc thesis and Bsc thesis bold.
+
+skills,
+remove mechanical related.
+1. progreamming, all python packages,
+2. Database - postgresSQL, My SQL
+unstructured database, bigdata, 
+distributed computing hadoop.
+methods to convert project to practical implementation.
+
+references include
+behzad and
+rinaldi
+
+parallel computing
+scala (programming language) and spark (big data, hadoop) with python
+
+remove objective: use separate cover letter.
+
+thursday discussion webpage profile.
+
+
+prague, czech, budapest. check for opens there.
+malta -  after december i can move to these countries to look for jobs.
+
+
+after graduation, 
+can find any projects and improve on it based on Hadoop or spark.
+
+
+
