@@ -1,3 +1,4 @@
+--WINDOWS--
 go to cmd
 enter into the project directory
 then type:
@@ -6,3 +7,9 @@ pyspark --master local[2]
 install pyspark instructions
 blog: https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c
 youtube: https://www.youtube.com/watch?v=t63PS3kiTTQ
+
+--LINUX--
+go to terminal
+enter into root/usr/local/{project_folder}/
+then type:
+jupyter notebook
